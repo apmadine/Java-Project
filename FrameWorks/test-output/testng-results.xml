@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37408" started-at="2020-04-13T11:15:49 IST" finished-at="2020-04-13T11:16:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37408" started-at="2020-04-13T11:15:49 IST" finished-at="2020-04-13T11:16:27 IST">
+      <class name="com.cg.tests.TC004">
+        <test-method status="PASS" signature="tc004Test()[pri:0, instance:com.cg.tests.TC004@7b49cea0]" name="tc004Test" duration-ms="37344" started-at="2020-04-13T11:15:49 IST" finished-at="2020-04-13T11:16:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc004Test -->
+      </class> <!-- com.cg.tests.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
